@@ -1,0 +1,34 @@
+html {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  background: #c9ddd9;
+  color: #1e2322;
+}
+
+img {
+  max-width: 60%;
+  display: block;
+  height: auto;
+  margin: auto;
+  border-radius: 1%;
+  margin-top: 1%;
+}
+
+#img-caption {
+  font-style: italic;
+  margin-top: 1em;
+}
+
+#tribute-info {
+  width: 55%;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: #065949;
+}
+
+a:hover {
+  color: #0a9177;
+}
